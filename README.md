@@ -21,4 +21,6 @@ Some online services and third-party integrations are no longer active.
 
 ## Notes
 
-This project was originally developed using an older Unity version and was later imported into Unity 2017 for preservation.
+- This project was originally developed using an older Unity version and was later imported into Unity 2017 for preservation.
+- Original background music has been removed from this public repository because it contained third-party copyrighted material.
+- Original online services or backend systems (Achievement and leaderboard), and marketplace integrations are no longer active.
