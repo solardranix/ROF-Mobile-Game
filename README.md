@@ -18,3 +18,7 @@ Some online services and third-party integrations are no longer active.
 - Achievement system and online leaderboard integration
 - In-app purchase integration
 - Mobile-focused UI systems
+
+## Notes
+
+This project was originally developed using an older Unity version and was later imported into Unity 2017 for preservation.
