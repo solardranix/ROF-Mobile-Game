@@ -1,2 +1,20 @@
-# ROF-Mobile-Game
-Archived Unity project originally developed 2015–2018.  Note: This project uses an old Unity version and original mobile services are no longer available. The project is preserved as a source archive.
+# ROF - Air Combat Defense
+## Unity / C# Mobile Game (2015–2018)
+
+Developed a multi-touch Android defense game featuring dual weapon controls, enemy wave systems, weapon upgrades, achievements, leaderboards, and mobile monetization integration.
+
+This repository contains archived Unity source code from the original project development period (2015–2018).
+
+The original game is no longer available online or on any store.  
+Some online services and third-party integrations are no longer active.
+
+## Features
+
+- Base defense gameplay: protect a central base from enemy attacks coming from two directions
+- Multi-touch Android controls: two weapons can be controlled independently using two-finger touch input, or by two players sharing the same tablet
+- Weapon systems, projectile mechanics, and weapon upgrades
+- Enemy wave and attack systems
+- Object pooling for performance optimization
+- Achievement system and online leaderboard integration
+- In-app purchase integration
+- Mobile-focused UI systems
