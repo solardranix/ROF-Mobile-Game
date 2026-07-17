@@ -1,4 +1,4 @@
-# ROF - Air Combat Defense
+# ROF - 2D Top-Down Base Defense Shooter
 ### Unity / C# Mobile Game (2015–2018)
 
 Developed a multi-touch Android defense game featuring dual weapon controls, enemy wave systems, weapon upgrades, achievements, leaderboards, and mobile monetization integration.
@@ -11,7 +11,7 @@ Some online services and third-party integrations are no longer active.
 ## Features
 
 - Base defense gameplay: protect a central base from enemy attacks coming from two directions
-- Multi-touch Android controls: two weapons can be controlled independently using two-finger touch input, or by two players sharing the same tablet
+- Local cooperative multi-touch controls: two weapons can be controlled independently using two-finger touch input or by two players sharing the same tablet.
 - Weapon systems, projectile mechanics, and weapon upgrades
 - Enemy wave and attack systems
 - Object pooling for performance optimization
